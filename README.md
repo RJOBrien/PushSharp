@@ -1,3 +1,7 @@
+RJO Note
+========
+This is the rjo branch of an RJO fork of PushSharp.  Patches on this branch are made to build and run within RJO's build infrastructure.  They are not intended to be published.
+
 PushSharp v4.0
 ==============
 
