@@ -3,7 +3,7 @@ Include "\\rchinas301\projects\IT Development\DevShared\Production\Build\Current
 properties {
   $global:configuration = "Release"
   $majorWithReleaseVersion = "1.0.0"
-  $publishNuget = $false
+  $publishNuget = $true
   $nugetPrereleaseTag = "alpha"
 
   $nowarn = "1607,1573,1591" # ignore missing / bad documentation
