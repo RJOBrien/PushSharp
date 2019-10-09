@@ -4,7 +4,7 @@ properties {
   $global:configuration = "Release"
   $majorWithReleaseVersion = "1.0.0"
   $publishNuget = $true
-  $nugetPrereleaseTag = "alpha"
+  $nugetPrereleaseTag = ""
 
   $nowarn = "1607,1573,1591" # ignore missing / bad documentation
   $constants = ""
